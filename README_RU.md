@@ -1,5 +1,9 @@
 # Telegram Proxy Finder
 
+Русская версия | [English version](./README.md)
+
+---
+
 Android-приложение для поиска рабочих MTProto-прокси для Telegram. Приложение загружает публичные списки прокси и проверяет каждый из них локально с помощью `tdlib`. Благодаря такой проверке вы получаете прокси, которые точно работают в вашей сети.
 
 Последнюю версию можно загрузить в разделе "[Releases](https://github.com/duck-psycho/telegram-proxy-finder/releases)".
