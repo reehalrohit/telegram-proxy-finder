@@ -1,6 +1,6 @@
 # Telegram Proxy Finder
 
-[Русская версия](./README_RU.md) | English version
+| English version
 
 ---
 
@@ -16,7 +16,7 @@ You can download the latest version of the application in the "[Releases](https:
 
 If you find the app useful, you can support the developer with a donation:
 
-Boosty: https://boosty.to/duckpsycho/donate
+
 
 BTC (Bitcoin): 178tovsfYQ8omdEPQSHAiH4jXBbBCWNacs
 
